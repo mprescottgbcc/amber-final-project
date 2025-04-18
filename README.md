@@ -1,2 +1,6 @@
 # Final-Project
-Final Project
+I already knew a lot of the material discussed in these modules. Section seven discusses basic social media information and how to set up emails. I personally don't email people often, but my middle school computer class taught us how to do emails. 
+
+Chapter eight talks about online safety. My generation grew up with access to computers, so we were taught at a young age not to give out personal information and not to post pictures you don't want permanently kept online. I know most employers nowadays look you up online before hiring. I work at PetSmart, and my employer uses another company to do their background checks before hiring. It's insane how many people's and companies' security gets compromised. I have never gotten hacked or scammed, but one of my clients got scammed. They showed me the fake email they sent, and it's scary how similar they look to legit emails.
+
+It's hard for me to remember the computational thinking concepts. I kept getting the name mixed up. Abstraction is the one I had the hardest time with. In my SST class, we did a brief lesson on computer models and simulations. I found this concept interesting because it can mimic gravity and impact. 
