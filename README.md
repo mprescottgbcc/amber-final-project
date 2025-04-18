@@ -1,6 +1,20 @@
 # Final-Project
-I already knew a lot of the material discussed in these modules. Section seven discusses basic social media information and how to set up emails. I personally don't email people often, but my middle school computer class taught us how to do emails. 
+The purpose of my project is to become more proficient in using HTML and CSS. I want to delve deeper into the various elements of HTML and CSS. Knowing how to do this and understanding how it works is a great skill to have.  
 
-Chapter eight talks about online safety. My generation grew up with access to computers, so we were taught at a young age not to give out personal information and not to post pictures you don't want permanently kept online. I know most employers nowadays look you up online before hiring. I work at PetSmart, and my employer uses another company to do their background checks before hiring. It's insane how many people's and companies' security gets compromised. I have never gotten hacked or scammed, but one of my clients got scammed. They showed me the fake email they sent, and it's scary how similar they look to legit emails.
+I plan to make a webpage with a few navigable pages in it. I plan to make a webpage for a fictitious horse stable. I will start with a home page that will have an “About us” section as well as a picture of the barn. The second page will be titled “Services” and will contain information about lessons and board pricing as well as what is included with the board and what disciplines they teach. The third page will have the lesson horses and horses for lease. I will include pictures of the horses as well as a blurb about them. The last page will explain the different facilities on the property such as an indoor and outdoor arena. At the top of all the pages, you can click on the names of the different webpages to navigate through them.  
 
-It's hard for me to remember the computational thinking concepts. I kept getting the name mixed up. Abstraction is the one I had the hardest time with. In my SST class, we did a brief lesson on computer models and simulations. I found this concept interesting because it can mimic gravity and impact. 
+In order to complete this project, I will use W3 Schools to further my understanding of the different features that make up CSS and HTML. I plan on using Phoenix Code to build my website. Phoenix Code has an HTML validator that helps find errors within your code. The only other resources I anticipate needing are pictures. I plan on obtaining these by taking pictures of the horses at the stable I ride at. I also want to make a quick fake logo in Clip Studio Paint. 
+
+
+
+Works Cited 
+
+ 
+
+“W3schools.Com.” W3Schools Online Web Tutorials, www.w3schools.com/html/default.asp.  
+
+“W3schools.Com.” W3Schools Online Web Tutorials, www.w3schools.com/css/default.asp.  
+
+“Code Creatively.” Phoenix Code, phcode.io/#/home. 
+
+ 
