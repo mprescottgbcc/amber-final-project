@@ -9,6 +9,17 @@
            color: white
        }
 
+       ul.b {
+           list-style-type: circle;
+           list-style: inside;
+       }
+
+       li {
+           font-size: 16px;
+           font-family: serif;
+           text-align: center;
+       }
+
        body {
            margin: 0;
            height: 300vh;
@@ -84,7 +95,7 @@
        }
 
        .topContent {
-           width: 102%;
+           width: 100%;
        }
 
        .topContent img {
@@ -115,11 +126,11 @@
            background-color: #840500;
        }
 
-       .Blurb {
+       .Lessons {
            width: 700px;
-           height: 150px;
-           margin-top: 4%;
-           margin-left: 8%;
+           height: 300px;
+           margin-top: 8%;
+           margin-left: 27%;
            padding: 20px;
            border: 7px solid #840500;
            background-color: #f1f1f1;
@@ -128,31 +139,24 @@
            text-align: center;
        }
 
-       .Blurbimage {
-           display: flex;
-           margin-top: 10%;
-           gap: 50px;
-           box-sizing: border-box;
-       }
-
-       .Missionimage {
-           display: flex;
-           margin-top: 100px;
-           gap: 50px;
-           padding-left: 10%;
-       }
-
-       .Mission {
+       .Boarding {
            width: 700px;
-           height: 115px;
-           margin-left: 29%;
-           margin-top: 10%;
-           padding: 10px;
+           height: 600px;
+           margin-top: 8%;
+           margin-left: 27%;
+           padding: 20px;
            border: 7px solid #840500;
            background-color: #f1f1f1;
            color: #333;
            font-size: 18px;
            text-align: center;
+       }
+
+       .Servicesimage {
+           align-content: center;
+           margin-top: 10%;
+           gap: 50px;
+           box-sizing: border-box;
        }
 
        #ContactHours {
@@ -167,57 +171,77 @@
            padding: 20px;
        }
 
-       .Carthorse {
-           margin-top: 10%;
-       }
-
        .Contactus, .Hours {
            text-align: center;
            font-size: 15px;
            width: 45%;
+       }
    </style>
 </head>
 <body>
 <div class="websiteborder" id="borderTop">
    <div class="topContent">
-      <img alt="Crimson Ridge Stables Horse Logo" height="150" src="Horse%20Logo.png">
+      <img alt="Crimson Ridge Stables Horse Logo" height="150" src="images/HorseLogo.png">
       <h1>Crimson Ridge Stables</h1>
-      <p style="font-family:Cambria, Cochin, Georgia, Times, "><i>Greatness is achieved upon the back of a horse.</i>
+      <p style="font-family:Cambria, Cochin, Georgia, Times;"><i>Greatness is achieved upon the back of a horse.</i>
       </p>
    </div>
-   <div class="Home"><u><a href="Homepage.html">Home</a></u></div>
-   <div class="Services"><u><a href="Services.html">Services</a></u></div>
-   <div class="Horses"><u><a href="Horses.html">Horses</a></u></div>
-   <div class="Facilities"><u><a href="Facilities.html">Facilities</a></u></div>
+   <div class="Home"><u><a href="index.html">Home</a></u></div>
+   <div class="Services"><u><a href="services.html">Services</a></u></div>
+   <div class="Horses"><u><a href="horses.html">Horses</a></u></div>
+   <div class="Facilities"><u><a href="facilities.html">Facilities</a></u></div>
 </div>
-<div class="Blurbimage">
-   <div class="Blurb">
-      <h3>Welcome to Crimson Ridge Stables!</h3>
-      <p>We are a spacious 75 acre stable located in Bridlewood, Cantershire. Crimson Ridge was purchased by Brooke and
-         Vanessa Colene back in 2015.
-         Brooke is a successful retired FEI competitor of 20 years and has started and trained many horses to FEI. After
-         retiring, she decided to run Crimson Ridge Stables and
-         train the next generation in showjumping. She owns a Hanoverian gelding named Hero, who has been with her
-         throughout her eventing career and share an unbreakable bond.
-      </p>
-   </div>
-   <img height="450" src="Hero.jpg">
+<div class="Lessons"><h3>Lessons</h3>
+   <p>Crimson Ridge Stables specializes in english riding and showjumping. We are proud to offer an individually
+      tailored training program as well as lessons for everyone
+      from novices to top level equestrians . We take great pride in providing programs that enable each horse-person
+      relationship to
+      achieve their individual goals and aspirations. To schedule a lesson, simply email us at Info@CrimsonRidge.com</p>
+   <h5>Pricing</h5>
+   <ul class="b">
+      <li>1 hour private lesson $60.00</li>
+      <li>1 hour semi private lesson (2 riders) $50.00</li>
+      <li>1 hour group lesson (3-5 riders) $30.00</li>
+      <li>30 minute practice ride (no instruction but must receive instructor approval) $25.00</li>
+      <li>30 minute Starter Lesson offered for the first time rider or to any riders under age 7. $30.00</li>
+   </ul>
 </div>
-<div class="Mission">
-   <h3>Our Mission</h3>
-   <p> At Crimson Ridge Stables, our mission is to build confidence and establish safe, secure and well-rounded
-      equestrians.
-      We are committed to providing quality care for both you and your horse.
-      Explore our services, meet our horses, and see the facilities that make us a great choice for your all equestrian
-      needs.
-   </p>
-   <div class="Missionimage">
-      <img height="450" src="Barn.jpg">
-   </div>
-   <div class="Carthorse">
-      <img height="450" src="Carthorse.jpg">
-   </div>
+<div class="Boarding"><h3>Boarding</h3>
+   <p>We provide high-quality boarding services with a range of amenities to ensure your horse gets the best care.
+      Our main barn houses 40 stalls, and are directly connected to the indoor arena, a large viewing area, and our
+      office.
+      We also offer 8 insulated and sturdily built shed row stalls.
+      If you're interested in boarding with us, feel free to reach out at info@crimsonridge.com!</p>
+   <h5>Choice of Stall type:</h5>
+   <ul class="b">
+      <li>12x12 matted stall with in/out attached paddock $900.00</li>
+      <li>12x12 matted run-in shed $900.00</li>
+      <li>12x12 stalls with pasture turnout daily $900.00</li>
+      <li>Pony stalls $550.00</li>
+   </ul>
+   <h5>Your monthly board includes:</h5>
+   <ul class="b">
+      <li>Indoor hot/cold wash stall</li>
+      <li>Individual tack lockers</li>
+      <li>Temperature controlled automatic water</li>
+      <li>3 Feedings per day, supplements and medications administered per individual horses requirements</li>
+      <li>Handling for vet or farrier if you are not able to be present</li>
+      <li>Use of 250x250 indoor arena</li>
+      <li>Use of indoor round pen</li>
+      <li>Use of cross country jump course</li>
+      <li>Use of outdoor round pen</li>
+      <li>Use of outdoor arena</li>
+      <li>Use of grazing paddocks</li>
+      <li>Trailer parking</li>
+   </ul>
 </div>
+<div class="Servicesimage">
+   <img height="450" src="images/Arena.jpg">
+</div>
+<div class="Servicesimage">
+   <img height="450" src="images/Outside.jpg">
+</div>
+
 <div class="websiteborder" id="borderRight"></div>
 <div class="websiteborder" id="borderBottom"></div>
 <div class="websiteborder" id="borderLeft"></div>
